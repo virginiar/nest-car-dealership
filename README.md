@@ -22,6 +22,7 @@ $ npm run start
 $ npm run start:dev
 
 # modo producción
+$ npm run build
 $ npm run start:prod
 ```
 
