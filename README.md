@@ -25,17 +25,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Ejecutar pruebas
+## Cargar datos iniciales
 
 ```bash
-# pruebas unitarias
-$ npm run test
-
-# pruebas e2e
-$ npm run test:e2e
-
-# pruebas de cobertura
-$ npm run test:cov
+$ http://localhost:3000/seed
 ```
 
 ## Aspectos analizados
