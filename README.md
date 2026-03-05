@@ -4,7 +4,7 @@
 
 # Nest-Car-Dealership
 
-API básico para gestión de coches creado con [Nest](https://github.com/nestjs/nest).
+API básico para gestión de coches creado con [Nest](https://github.com/nestjs/nest). Basado en el curso de "Nest Desarrollo Backend escalable con Node" de [DevTalles](https://cursos.devtalles.com/) en Udemy.
 
 ## Configuración del proyecto
 
